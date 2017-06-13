@@ -1,0 +1,11 @@
+# webstorm
+.idea
+# .bak
+*.bak
+# node_modules
+/webapp1/node_modules/
+/webapp2/node_modules/
+# logs
+logs/
+# mac
+.DS_Store
